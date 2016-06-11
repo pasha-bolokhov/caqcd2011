@@ -1,0 +1,69 @@
+\begin{picture}(0,0)%
+\includegraphics{mplane.pstex}%
+\end{picture}%
+\setlength{\unitlength}{1973sp}%
+%
+\begingroup\makeatletter\ifx\SetFigFont\undefined%
+\gdef\SetFigFont#1#2#3#4#5{%
+  \reset@font\fontsize{#1}{#2pt}%
+  \fontfamily{#3}\fontseries{#4}\fontshape{#5}%
+  \selectfont}%
+\fi\endgroup%
+\begin{picture}(14364,8880)(209,-8341)
+\put(1801,-1186){\makebox(0,0)[b]{\smash{{\SetFigFont{10}{12.0}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0.580,0.153,0.286}$ m_0^N \,=\, -1 $}%
+}}}}
+\put(7323,-2624){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}\boldmath{$\star$}}%
+}}}}
+\put(7828,-4509){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}\boldmath{$\star$}}%
+}}}}
+\put(7328,-5386){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}\boldmath{$\star$}}%
+}}}}
+\put(6461,-5888){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}\boldmath{$\star$}}%
+}}}}
+\put(6447,-2116){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}\boldmath{$\star$}}%
+}}}}
+\put(5435,-2110){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}\boldmath{$\star$}}%
+}}}}
+\put(4567,-2623){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}\boldmath{$\star$}}%
+}}}}
+\put(4058,-4511){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}\boldmath{$\star$}}%
+}}}}
+\put(4559,-5385){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}\boldmath{$\star$}}%
+}}}}
+\put(5441,-5887){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}\boldmath{$\star$}}%
+}}}}
+\put(7831,-3498){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}\boldmath{$\star$}}%
+}}}}
+\put(4058,-3493){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}\boldmath{$\star$}}%
+}}}}
+\put(6001,164){\makebox(0,0)[b]{\smash{{\SetFigFont{14}{16.8}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0,1,0}Weak-Coupling}%
+}}}}
+\put(6001,-391){\makebox(0,0)[b]{\smash{{\SetFigFont{14}{16.8}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0,1,0}Spectrum}%
+}}}}
+\put(1951,-2461){\makebox(0,0)[b]{\smash{{\SetFigFont{14}{16.8}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0,1,0}Weak-Coupling}%
+}}}}
+\put(1951,-3016){\makebox(0,0)[b]{\smash{{\SetFigFont{14}{16.8}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0,1,0}Spectrum}%
+}}}}
+\put(2176,-5686){\makebox(0,0)[b]{\smash{{\SetFigFont{14}{16.8}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0,1,0}Weak-Coupling}%
+}}}}
+\put(2176,-6241){\makebox(0,0)[b]{\smash{{\SetFigFont{14}{16.8}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0,1,0}Spectrum}%
+}}}}
+\put(8701,-7636){\makebox(0,0)[b]{\smash{{\SetFigFont{14}{16.8}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0,1,0}Weak-Coupling}%
+}}}}
+\put(8701,-8191){\makebox(0,0)[b]{\smash{{\SetFigFont{14}{16.8}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0,1,0}Spectrum}%
+}}}}
+\put(11476,-2536){\makebox(0,0)[b]{\smash{{\SetFigFont{14}{16.8}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0,1,0}Weak-Coupling}%
+}}}}
+\put(11476,-3091){\makebox(0,0)[b]{\smash{{\SetFigFont{14}{16.8}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0,1,0}Spectrum}%
+}}}}
+\put(9991,-706){\makebox(0,0)[lb]{\smash{{\SetFigFont{14}{16.8}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{1,0,1}$ m_{\scriptscriptstyle 0} $}%
+}}}}
+\put(6001,-4366){\makebox(0,0)[b]{\smash{{\SetFigFont{14}{16.8}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0,0,1}Spectrum}%
+}}}}
+\put(6001,-3811){\makebox(0,0)[b]{\smash{{\SetFigFont{14}{16.8}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0,0,1}Strong-Coupling}%
+}}}}
+\put(9826,-6436){\makebox(0,0)[lb]{\smash{{\SetFigFont{12}{14.4}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0,1,1}Curve of Marginal Stability}%
+}}}}
+\put(1801,-811){\makebox(0,0)[b]{\smash{{\SetFigFont{10}{12.0}{\familydefault}{\mddefault}{\updefault}{\color[rgb]{0.580,0.153,0.286}Argyres-Douglas points}%
+}}}}
+\end{picture}%
